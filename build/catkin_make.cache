@@ -1,0 +1,2 @@
+robot_cs460
+-DCATKIN_DEVEL_PREFIX=/home/kkanda900/cs460_ec/devel -DCMAKE_INSTALL_PREFIX=/home/kkanda900/cs460_ec/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/kkanda900/cs460_ec/install
+
+Name: robot_cs460
+Description: Description of robot_cs460
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
